@@ -1,0 +1,17 @@
+h1{
+    margin: 0px;
+    padding: 10px;
+    background: lightblue;
+
+}
+.index1{
+    position: relative;
+    background: greenyellow;
+    top: 30px;
+
+}
+.index2{
+    position: absolute;
+    background: lightcoral;
+    top:60px
+}
